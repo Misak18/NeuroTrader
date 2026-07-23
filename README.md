@@ -17,21 +17,21 @@
 
 ## ✨ Основные возможности
 
-* **ML-Прогнозирование:** Обучение модели на технических индикаторах (RSI, MACD, SMA, свечные паттерны TA-Lib)[cite: 1].
-* **Мини-ИИ Ассистент (MiniAI):** Оценка волатильности рынка (ATR) и автоматический выбор оптимального таймфрейма (15m / 1h), контроль лимитов и рисков[cite: 1].
-* **Интерактивный GUI:** Полноценный торговый терминал с графиками TradingView Lightweight Charts, реализацией управления ордерами и PnL-статистикой[cite: 2].
-* **Paper Trading / Live Trading:** Безопасное тестирование стратегий на виртуальном счету перед реальной торговлей[cite: 1].
-* **Поддержка множества пар:** Мониторинг популярной корзины альткоинов и BTC/ETH[cite: 1].
+* **ML-Прогнозирование:** Обучение модели на технических индикаторах (RSI, MACD, SMA, свечные паттерны TA-Lib).
+* **Мини-ИИ Ассистент (MiniAI):** Оценка волатильности рынка (ATR) и автоматический выбор оптимального таймфрейма (15m / 1h), контроль лимитов и рисков.
+* **Интерактивный GUI:** Полноценный торговый терминал с графиками TradingView Lightweight Charts, реализацией управления ордерами и PnL-статистикой.
+* **Paper Trading / Live Trading:** Безопасное тестирование стратегий на виртуальном счету перед реальной торговлей.
+* **Поддержка множества пар:** Мониторинг популярной корзины альткоинов и BTC/ETH.
 
 ---
 
 ## 🛠 Технологический стек
 
-* **Language:** Python 3.10+[cite: 1]
-* **Machine Learning:** XGBoost, CatBoost, Scikit-learn[cite: 1]
-* **Data Analysis:** Pandas, NumPy, TA-Lib[cite: 1]
-* **API Integration:** Pybit (Bybit API)[cite: 1]
-* **Frontend / GUI:** PyWebView, HTML5/CSS3, JavaScript, Lightweight Charts[cite: 2]
+* **Language:** Python 3.10+
+* **Machine Learning:** XGBoost, CatBoost, Scikit-learn
+* **Data Analysis:** Pandas, NumPy, TA-Lib
+* **API Integration:** Pybit (Bybit API)
+* **Frontend / GUI:** PyWebView, HTML5/CSS3, JavaScript, Lightweight Charts
 
 ---
 
@@ -39,5 +39,5 @@
 
 1. **Клонировать репозиторий:**
    ```bash
-   git clone [https://github.com/ВАШ_НИК/NeuroTrader.git](https://github.com/ВАШ_НИК/NeuroTrader.git)
+   git clone [https://github.com/Misak18/NeuroTrader.git](https://github.com/Misak18/NeuroTrader.git)
    cd NeuroTrader
